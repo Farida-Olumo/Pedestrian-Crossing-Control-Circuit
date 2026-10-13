@@ -34,34 +34,11 @@ Control logic determines the order and duration of the signal states.
 
 The project combines electronic components and control logic to implement the crossing system.
 
-## Circuit Design
-
-Include the circuit schematic, component connections, and an explanation of how the circuit operates.
-
-## Hardware Components
-
-*List the actual components used, such as the controller or timing ICs, LEDs, resistors, switches, and power supply.*
-
-## Control Logic
-
-Describe the traffic-light sequence and how the system transitions between states.
-
-## Simulation and Implementation
-
-*Add any circuit simulation files, breadboard photographs, or physical prototype documentation.*
-
-## Evaluation
-
-Describe how the system was evaluated, including:
-
+### 5. Evaluation
 - Signal sequence accuracy
 - Timing behaviour
 - Circuit functionality
 - Observed limitations
-
-## Project Demonstration
-
-Add photographs, circuit diagrams, or a short video showing the pedestrian crossing system operating.
 
 ## Future Improvements
 
